@@ -1,3 +1,4 @@
+# https://www.hackerrank.com/challenges/the-minion-game/problem
 # Input one string
 # make all possible substrings
 # count substrings
