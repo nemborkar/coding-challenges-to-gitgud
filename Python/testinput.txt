@@ -1,0 +1,6 @@
+This is the text from the test input file
+This is the second line
+Third line
+4
+5
+6
