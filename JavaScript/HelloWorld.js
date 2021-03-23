@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/js10-hello-world/problem
+
 'use strict';
 
 process.stdin.resume();
